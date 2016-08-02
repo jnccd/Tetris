@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 14 for Windows Desktop
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris\Tetris\Tetris.csproj", "{3AC4CBC5-8E9A-40DC-9910-4D44568647A5}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "TetrisContent", "Tetris\TetrisContent\TetrisContent.contentproj", "{808BE7DC-9D0C-4F0F-A597-07C9C8B60F3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3AC4CBC5-8E9A-40DC-9910-4D44568647A5}.Debug|x86.ActiveCfg = Debug|x86
+		{3AC4CBC5-8E9A-40DC-9910-4D44568647A5}.Debug|x86.Build.0 = Debug|x86
+		{3AC4CBC5-8E9A-40DC-9910-4D44568647A5}.Release|x86.ActiveCfg = Release|x86
+		{3AC4CBC5-8E9A-40DC-9910-4D44568647A5}.Release|x86.Build.0 = Release|x86
+		{808BE7DC-9D0C-4F0F-A597-07C9C8B60F3A}.Debug|x86.ActiveCfg = Debug|x86
+		{808BE7DC-9D0C-4F0F-A597-07C9C8B60F3A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
